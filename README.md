@@ -41,3 +41,6 @@ Frontend wykorzystuje BootStrap i jquery.
 W pewnien sposób nawet udało mi się połączyć ajax z Django. Dzięki czemu aktualizuje dane zestawów bez odświeżania strony.
 
 Również sam wydelepowałem aplikację django na server Linux.
+
+</br>
+</br>
