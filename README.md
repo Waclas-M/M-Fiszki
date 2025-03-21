@@ -68,14 +68,13 @@ Wynik
 
 Plik wysłany do aplikacji
 </br>
-
-[UploadingCat - Kot
+Cat - Kot
 Dog - Pies
 Horse - Koń
- test.txt…]()
 
- </br>
 
+</br>
+Wynik
 
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
 
