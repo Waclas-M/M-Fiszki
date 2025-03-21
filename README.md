@@ -71,6 +71,7 @@ Również sam wydelepowałem aplikację django na server Linux.
 Cat - Kot
 
 Dog - Pies
+
 Horse - Koń
 
 
