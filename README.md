@@ -1,6 +1,8 @@
 # M-Fiszki
-https://mfiszki.pl/
-## Krótko o stronie
+
+
+
+## Krótko o stronie https://mfiszki.pl/
 
 Na stronie można tworzyć zestawy pytań i odpowiedzi które poźniej wykorzystawne są w grach pomagających się uczyć.
 
@@ -23,6 +25,9 @@ Gry:
 Wpisywanie ręczne polega na wpisaniu prawidłowej odpowiedzi w pole i uzbierania jak największej liczby punktów.
 
 Fiszki są grą w której sam musisz sprawdzić czy odpowiedź którą podałeś jest prawidłowa.
+
+
+
 
 
 ## Krótko o technologiach
