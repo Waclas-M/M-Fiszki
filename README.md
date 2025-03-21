@@ -3,7 +3,7 @@
 </br>
 
 
-## Krótko o stronie 
+# Krótko o stronie 
 
 Na stronie można tworzyć zestawy pytań i odpowiedzi które poźniej wykorzystawne są w grach pomagających się uczyć.
 
@@ -32,7 +32,7 @@ Fiszki są grą w której sam musisz sprawdzić czy odpowiedź którą podałeś
 </br>
 
 
-## Krótko o technologiach
+# Krótko o technologiach
 
 Backend strony jest napisany w Django, a wszytkie skryptu np do przetwarzania tego co zwrócił OCR są napisane w Python.
 
@@ -44,7 +44,7 @@ Również sam wydelepowałem aplikację django na server Linux.
 
 </br>
 
-## Przykład OCR
+# Przykład OCR
 
 <h2>Zdjęcie wysłąne do OCR</h2>
 
@@ -64,7 +64,7 @@ Również sam wydelepowałem aplikację django na server Linux.
 </br>
 </br>
 
-## Przykład .txt
+# Przykład .txt
 
 <h2>Plik wysłany do aplikacji</h2>
 </br>
