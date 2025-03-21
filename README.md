@@ -1,5 +1,4 @@
-# M-Fiszki
-<h3><a href="https://mfiszki.pl/" target="_blank">mfiszki.pl</a></h3>
+<h3> M-Fiszki <a href="https://mfiszki.pl/" target="_blank">mfiszki.pl</a></h3>
 </br>
 
 
@@ -44,9 +43,9 @@ Również sam wydelepowałem aplikację django na server Linux.
 
 </br>
 
-# Przykład OCR
 
-<h2>Zdjęcie wysłąne do OCR</h2>
+
+<h2>Przykład OCR | Zdjęcie wysłąne do OCR</h2>
 
 </br>
 
@@ -64,9 +63,8 @@ Również sam wydelepowałem aplikację django na server Linux.
 </br>
 </br>
 
-# Przykład .txt
 
-<h2>Plik wysłany do aplikacji</h2>
+<h2>Przykład .txt | Plik wysłany do aplikacji</h2>
 </br>
 Cat - Kot
 
