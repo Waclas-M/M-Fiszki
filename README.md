@@ -43,4 +43,21 @@ Udało mi się połączyć technologie ajax z Django. Dzięki czemu aktualizuje 
 Również sam wydelepowałem aplikację django na server Linux.
 
 </br>
+
+
+##Przykład OCR
+Zdjęcie wysłąne do OCR
 </br>
+![JUlkaTest](https://github.com/user-attachments/assets/80548ad3-449d-43cf-acda-899f521d65fb)
+
+</br>
+Wynik
+</br>
+![image](https://github.com/user-attachments/assets/8d526b36-1a00-42c2-8c8a-433600c48324)
+
+</br>
+</br>
+
+
+
+
