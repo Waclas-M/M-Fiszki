@@ -36,7 +36,7 @@ Fiszki są grą w której sam musisz sprawdzić czy odpowiedź którą podałeś
 
 Backend strony jest napisany w Django, a wszytkie skryptu np do przetwarzania tego co zwrócił OCR są napisane w Python.
 
-Frontend wykorzystuje jquery.
+Frontend wykorzystuje BootStrap i jquery.
 
 W pewnien sposób nawet udało mi się połączyć ajax z Django. Dzięki czemu aktualizuje dane zestawów bez odświeżania strony.
 
