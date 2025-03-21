@@ -28,7 +28,8 @@ Wpisywanie ręczne polega na wpisaniu prawidłowej odpowiedzi w pole i uzbierani
 Fiszki są grą w której sam musisz sprawdzić czy odpowiedź którą podałeś jest prawidłowa.
 
 
-
+</br>
+</br>
 
 
 ## Krótko o technologiach
