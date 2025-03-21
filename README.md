@@ -69,10 +69,9 @@ Również sam wydelepowałem aplikację django na server Linux.
 <h2>Plik wysłany do aplikacji</h2>
 </br>
 Cat - Kot
-
 Dog - Pies
-
 Horse - Koń
+
 
 
 </br>
