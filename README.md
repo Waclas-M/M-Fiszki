@@ -46,7 +46,7 @@ Również sam wydelepowałem aplikację django na server Linux.
 
 ## Przykład OCR
 
-Zdjęcie wysłąne do OCR
+<h2>Zdjęcie wysłąne do OCR</h2>
 
 </br>
 
@@ -54,7 +54,7 @@ Zdjęcie wysłąne do OCR
 
 </br>
 
-Wynik
+<h2>Wynik</h2>
 
 </br>
 
@@ -66,7 +66,7 @@ Wynik
 
 ## Przykład .txt
 
-Plik wysłany do aplikacji
+<h2>Plik wysłany do aplikacji</h2>
 </br>
 Cat - Kot
 
@@ -76,8 +76,8 @@ Horse - Koń
 
 
 </br>
-Wynik
-
+<h2>Wynik</h2>
+</br>
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
 
 
