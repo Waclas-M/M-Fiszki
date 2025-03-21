@@ -46,6 +46,7 @@ Również sam wydelepowałem aplikację django na server Linux.
 
 
 ##Przykład OCR
+
 Zdjęcie wysłąne do OCR
 </br>
 ![JUlkaTest](https://github.com/user-attachments/assets/80548ad3-449d-43cf-acda-899f521d65fb)
@@ -53,7 +54,8 @@ Zdjęcie wysłąne do OCR
 </br>
 Wynik
 </br>
-![image](https://github.com/user-attachments/assets/8d526b36-1a00-42c2-8c8a-433600c48324)
+![Wynik OCR](https://github.com/user-attachments/assets/7f1c5a11-d029-4d8e-96ff-c997c1770170)
+
 
 </br>
 </br>
