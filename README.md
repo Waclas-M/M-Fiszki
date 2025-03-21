@@ -44,7 +44,6 @@ Również sam wydelepowałem aplikację django na server Linux.
 
 </br>
 
-
 ##Przykład OCR
 
 Zdjęcie wysłąne do OCR
