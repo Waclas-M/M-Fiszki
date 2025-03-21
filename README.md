@@ -79,6 +79,7 @@ Horse - Koń
 </br>
 <h2>Wynik</h2>
 </br>
+
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
 
 
