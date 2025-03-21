@@ -69,7 +69,9 @@ Wynik
 Plik wysłany do aplikacji
 </br>
 Cat - Kot
+
 Dog - Pies
+
 Horse - Koń
 
 
