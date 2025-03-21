@@ -20,7 +20,7 @@ Gry:
 - Fiszki
 - Wpisywanie ręczne
 
-Wpisywanie ręczne polega na wpisaniu prawidłowej odpowiedzi w pole.
+Wpisywanie ręczne polega na wpisaniu prawidłowej odpowiedzi w pole i uzbierania jak największej liczby punktów.
 
 Fiszki są grą w której sam musisz sprawdzić czy odpowiedź którą podałeś jest prawidłowa.
 
