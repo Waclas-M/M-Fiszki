@@ -1,4 +1,4 @@
-# M-Fiszki
+[test.txt](https://github.com/user-attachments/files/19392591/test.txt)# M-Fiszki
 <h3><a href="https://mfiszki.pl/" target="_blank">mfiszki.pl</a></h3>
 </br>
 
@@ -63,6 +63,23 @@ Wynik
 
 </br>
 </br>
+
+## Przykład .txt
+
+Plik wysłany do aplikacji
+</br>
+
+[UploadingCat - Kot
+Dog - Pies
+Horse - Koń
+ test.txt…]()
+
+ </br>
+
+
+![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
+
+
 
 
 
