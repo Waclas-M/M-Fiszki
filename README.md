@@ -15,6 +15,8 @@ Po przesłaniu zdjęcia OCR czyta plik a następnie skrypt dzieli przeczytany te
 
 Po przesłaniu pliku TXT skrypt czyta plik i dzieli słowa na pytania i odpowiedzi.
 
+Zestawami można zarządzać z zakładki Profil w której można usuwać lub edytować zestawy
+
 OCR --> googlevision API
 
 
