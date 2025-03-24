@@ -54,7 +54,7 @@ Również sam wydelepowałem aplikację django na server Linux, oraz napisałem 
 
 </br>
 
-<h2>Wynik</h2>
+<b>Wynik</b>
 
 </br>
 
@@ -76,7 +76,7 @@ Horse - Koń
 
 
 </br>
-<h2>Wynik</h2>
+<b>Wynik</b>
 </br>
 
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
