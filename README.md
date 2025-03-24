@@ -101,6 +101,7 @@ Do strony napisałem testy automatyczne które weryfikują procesy:
 
 
 Działanie testów można znaleść tutuj: <a href="https://github.com/Waclas-M/M-Fiszki/raw/refs/heads/main/Testy-Automatyczne.mkv"> Film z testów automatycznych </a>
+Film jaki i cała automatyzacja znajduje się w plikach main.py uruchamia wszystkie testy.
 
 
  
