@@ -56,8 +56,6 @@ Również sam wydelepowałem aplikację django na server Linux, oraz napisałem 
 
 <h3>Wynik</h3>
 
-</br>
-
 ![Wynik OCR](https://github.com/user-attachments/assets/7f1c5a11-d029-4d8e-96ff-c997c1770170)
 
 
@@ -75,7 +73,6 @@ Horse - Koń
 
 </br>
 <h3>Wynik</h3>
-</br>
 
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
 
