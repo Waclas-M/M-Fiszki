@@ -80,6 +80,34 @@ Horse - Koń
 
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
 
+</br>
+</br>
+
+## Testy automatyczne
+
+Do strony napisałem testy automatyczne które weryfikują procesy:
+
+-rejestracji.
+
+-logowania.
+
+-Tworzenia zestawów manualnie oraz za pomocą pliku tekstowego i zdjęcia.
+
+-Zarządzanie zestawami, edycja danych, usuwanie. 
+
+-Przejście procesu gier manualnego oraz fiszek.
+
+-usuwanie użytkownika.
+
+
+Działanie testów można znaleść tutuj: <a href="https://github.com/Waclas-M/M-Fiszki/raw/refs/heads/main/Testy-Automatyczne.mkv"> Film z testów automatycznych </a>
+
+
+ 
+
+
+
+
 
 
 
