@@ -1,8 +1,7 @@
-<h3> M-Fiszki <a href="https://mfiszki.pl/" target="_blank">mfiszki.pl</a></h3>
-</br>
 
 
-# Krótko o stronie 
+
+# Krótko o stronie   <a href="https://mfiszki.pl/" target="_blank">mfiszki.pl</a>
 
 Na stronie można tworzyć zestawy pytań i odpowiedzi które poźniej wykorzystawne są w grach pomagających się uczyć.
 
