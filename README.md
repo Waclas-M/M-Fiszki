@@ -67,16 +67,14 @@ Również sam wydelepowałem aplikację django na server Linux, oraz napisałem 
 
 <h2>Przykład .txt | Plik wysłany do aplikacji</h2>
 </br>
-Cat - Kot
-
-Dog - Pies
-
+Cat - Kot</br>
+Dog - Pies</br>
 Horse - Koń
 
 
 
 </br>
-<b>Wynik</b>
+<h3>Wynik</h3>
 </br>
 
 ![Wynik txt](https://github.com/user-attachments/assets/fc9f8100-98f1-4db2-b083-eedeac5ba704)
