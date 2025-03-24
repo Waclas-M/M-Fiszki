@@ -54,7 +54,7 @@ Również sam wydelepowałem aplikację django na server Linux, oraz napisałem 
 
 </br>
 
-<b>Wynik</b>
+<h4>Wynik</h4>
 
 </br>
 
